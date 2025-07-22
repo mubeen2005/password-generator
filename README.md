@@ -13,7 +13,7 @@ A modern and customizable **Password Generator** built with **React.js** and sty
 
 ## 🖼️ Preview
 
-![Password Generator Preview](assets/password-generator-preview.png)  
+![Password Generator Preview](password-generator.PNG)  
 
 ---
 
